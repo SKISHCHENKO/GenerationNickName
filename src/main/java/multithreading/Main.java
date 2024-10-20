@@ -73,9 +73,9 @@ public class Main {
             e.printStackTrace();
         }
 
-        System.out.println("Красивых слов с длиной 3: " + countThree + " шт.");
-        System.out.println("Красивых слов с длиной 4: " + countFour + " шт.");
-        System.out.println("Красивых слов с длиной 5: " + countFive + " шт.");
+        System.out.println("Words with length 3: " + countThree + " pcs.");
+        System.out.println("Words with length 4: " + countFour + " pcs.");
+        System.out.println("Words with length 5: " + countFive + " pcs.");
     }
 
     public static boolean isPalindrome(String text) {
